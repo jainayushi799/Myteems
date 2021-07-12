@@ -13,10 +13,10 @@ This is a video calling application where participants can call each-other and w
 - Instantly join a video call with a code
 - Chat in real-time
 - Chat Notifications
-- Install it as a PWA (Progressive Web App) on your device
 - Unlimited duration calls
-- Share code instantly on social media platforms
 - Simple and intuitive UI
+- Share code instantly on social media platforms
+- Install it as a PWA (Progressive Web App) on your device
 
 
 
