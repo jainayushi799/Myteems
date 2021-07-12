@@ -6,7 +6,7 @@ This is a video calling application where participants can call each-other and w
 
 
 
-Major Features and Functionalities
+**Major Features and Functionalities**
 
 - Video Call with others
 - Mute audio/video
@@ -24,9 +24,9 @@ Major Features and Functionalities
 
 **Tech Stack**
 
-React.js
-Heroku (Hosting)
-Web RTC
-Socket.io
-Node.js
-Ant Design
+- React.js
+- Heroku (Hosting)
+- Web RTC
+- Socket.io
+- Node.js
+- Ant Design
