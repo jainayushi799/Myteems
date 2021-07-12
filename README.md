@@ -8,15 +8,15 @@ This is a video calling application where participants can call each-other and w
 
 **Major Features and Functionalities**
 
-**Video Call 
-**Mute audio/video
-**Simple and intuitive UI
-**Instantly join a video call with a code
-**Chat in real-time
-**Chat Notifications
-**Unlimited duration calls
-**Share code instantly on social media platforms
-**Install it as a PWA (Progressive Web App) on your device
+**Video Call **
+**Mute audio/video**
+**Simple and intuitive UI**
+**Instantly join a video call with a code**
+**Chat in real-time**
+**Chat Notifications**
+**Unlimited duration calls**
+**Share code instantly on social media platforms**
+**Install it as a PWA (Progressive Web App) on your device**
 
 
 
