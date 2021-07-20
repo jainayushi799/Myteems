@@ -35,3 +35,7 @@ This is a video calling application where participants can call each-other and w
 - Socket.io
 - Node.js
 - Ant Design
+
+
+**Note**
+The code for the call gets changed every time the page gets refreshed,so if you are not able to join, copy the code again and try again , you will be able to join. 
